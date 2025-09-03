@@ -1,7 +1,7 @@
 <h1>Hi, I'm Maria <br/><a href="https://github.com/mariaacalobo">Beginner programmer</a>, <a href="https://www.linkedin.com/in/maria-ana-lobo/">Multifaceted Professional</a>, <a href="https://www.instagram.com/mangacosida">Book reader, knitter and crocheter</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+<ul>Bear with me, I'm still organizing my folders and read mes hehe</ul>
 <h2>⌨️Technologies I'm Learning </h2>
 <ul>- HTML, CSS (Bootstrap)</ul>
 <ul>- JavaScript (JSON, AJAX)</ul>
