@@ -1,7 +1,12 @@
 <h1>Hi, I'm Maria <br/><a href="https://github.com/mariaacalobo">Beginner programmer</a>, <a href="https://www.linkedin.com/in/maria-ana-lobo/">Multifaceted Professional</a>, <a href="https://www.instagram.com/mangacosida">Book reader, knitter and crocheter</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<ul>Bear with me, I'm still organizing my folders and read mes hehe</ul>
+<ul><a href="https://github.com/mariaacalobo/bootstrap-the-maine">HTML Course final project</a></ul>
+<ul><a href="https://github.com/mariaacalobo/maria-finalizes-javascript">JavaScript Course final project</a></ul>
+<ul><a href="https://github.com/mariaacalobo/maria-finalizes-php">PHP Course final project</a></ul>
+
+<h2>🔭 I’m currently working on my course's final project and I will upload it as soon as it is graded!</h2>
+
 <h2>⌨️Technologies I'm Learning </h2>
 <ul>- HTML, CSS (Bootstrap)</ul>
 <ul>- JavaScript (JSON, AJAX)</ul>
