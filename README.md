@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h2>⌨️Technologies I'm Learning </h2>
-- HTML, CSS (Bootstrap)
-- JavaScript (JSON, AJAX)
-- PHP
-- MySQL
+<ul>- HTML, CSS (Bootstrap)</ul>
+<ul>- JavaScript (JSON, AJAX)</ul>
+<ul>- PHP</ul>
+<ul>- MySQL</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
