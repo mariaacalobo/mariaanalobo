@@ -5,6 +5,12 @@
 <ul><a href="https://github.com/mariaacalobo/maria-finalizes-javascript">JavaScript Course final project</a></ul>
 <ul><a href="https://github.com/mariaacalobo/maria-finalizes-php">PHP Course final project</a></ul>
 
+<h2>🖌️UX/UI Design Projects</h2>
+<ul><a href="https://mariaanalobo.byethost32.com/"> Animal Shelter on Wordpress</a></ul> 
+<ul><a href="https://www.figma.com/design/sLSjqW2CPj5PFZ5ZUBCtF0/Pawfect---FINAL?node-id=1-2&p=f&t=nAgikNko66Cqzg4X-0">Animal Shelter hi-fi prototype on Figma</a></ul>
+<ul>Case study coming soon!</ul>
+
+
 <h2>🔭 I’m currently working on my course's final project and I will upload it as soon as it is graded!</h2>
 
 <h2>⌨️Technologies I'm Learning </h2>
