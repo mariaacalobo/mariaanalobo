@@ -1,6 +1,7 @@
 <h1>Hi, I'm Maria <br/><a href="https://github.com/mariaacalobo">Beginner programmer</a>, <a href="https://www.linkedin.com/in/maria-ana-lobo/">Multifaceted Professional</a>, <a href="https://www.instagram.com/mangacosida">Book reader, knitter and crocheter</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+<ul><a href="https://github.com/mariaacalobo/maria-finalizes-course">Final E-Commerce Project</a></ul>
 <ul><a href="https://github.com/mariaacalobo/bootstrap-the-maine">HTML Course final project</a></ul>
 <ul><a href="https://github.com/mariaacalobo/maria-finalizes-javascript">JavaScript Course final project</a></ul>
 <ul><a href="https://github.com/mariaacalobo/maria-finalizes-php">PHP Course final project</a></ul>
